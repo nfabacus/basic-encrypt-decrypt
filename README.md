@@ -9,6 +9,7 @@ https://github.com/brix/crypto-js
 2. Run decipher.js to decript the text with your secret key.
 
 ### Object encryption
+Run objectEncryption.js
 
 
 
